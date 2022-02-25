@@ -1,2 +1,2 @@
 My first readme
-I am getting it
+I am getting it now
